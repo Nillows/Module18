@@ -1,7 +1,7 @@
 # Social Network API
 
 ## Description 
-This project is a plug and play back end to create, read, update, and destroy information in an integrated MySQL database with pre-built routes to attach to your front end!
+This project is a plug and play back end to create, read, update, and destroy information in an integrated MongoDB database with pre-built routes to attach to your budding social network front end!
 
 ## [Video Link](https://streamable.com/9jo4n5)    
 
